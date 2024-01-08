@@ -18,7 +18,8 @@
 }
 
 @media (max-width:768px) {
-  .todo-illustration { text-align: center;
+  .todo-illustration {
+    text-align: center;
   }
 }
 .todo-content {
@@ -99,7 +100,7 @@
 
   display: flex;
   justify-content: space-between;
-    align-items: center;
+  align-items: center;
 }
 .item > * {
   vertical-align: middle;
@@ -115,7 +116,7 @@
   width: 226px;
 }
 .item > .input_text {
-    width: 226px
+  width: 226px
 }
 .todo-content__remove-icon {
   height: 2em;
